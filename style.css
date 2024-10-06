@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #e7dada;
+    background-color: #f4f4f4;
     color: #74484865;
     max-width: 800px;
     margin: auto;
@@ -25,7 +25,7 @@ nav ul {
 
 nav ul li a {
     text-decoration: none;
-    color: #333;
+    color: #ece8e8;
     padding: 5px 10px;
     border-radius: 5px;
     transition: background-color 0.3s;
